@@ -10,8 +10,8 @@
 - Bash (Scripting in Linux)
 
 #### 🗣️ Language ;
--- Turkish (Native)
--- English (Good at Writing and Reading, Beginner at Speaking and Listening)
+- Turkish (Native)
+- English (Good at Writing and Reading, Beginner at Speaking and Listening)
 	
 #### 📱 Devices ;
 
