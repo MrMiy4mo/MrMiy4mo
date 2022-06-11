@@ -8,6 +8,10 @@
 - MSSQL
 - Android Studio (Java)
 - Bash (Scripting in Linux)
+
+#### 🗣️ Language ;
+-- Turkish (Native)
+-- English (Good at Writing and Reading, Beginner at Speaking and Listening)
 	
 #### 📱 Devices ;
 
